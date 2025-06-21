@@ -1,4 +1,4 @@
-# Optimisation_Methods# 🔧 Optimization Algorithms for Training Neural Networks (From Scratch)
+# Optimization Algorithms for Training Neural Networks 
 
 This repository implements multiple optimization algorithms from scratch to train a deep neural network on a 2D classification dataset. It includes:
 
